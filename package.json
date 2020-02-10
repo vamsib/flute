@@ -1,0 +1,19 @@
+{
+  "name": "flute",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "snowpack": "^1.1.0"
+  },
+  "dependencies": {
+    "lit-html": "^1.1.2",
+    "page": "^1.11.5",
+    "rxjs": "^6.5.4"
+  }
+}
